@@ -94,3 +94,5 @@ console.log(king); // here 100
 console.log(king); // here 10
 
 // var is not having block scope 
+
+
