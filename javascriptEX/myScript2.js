@@ -64,6 +64,7 @@ Variables declared inside a { } block cannot be accessed from outside the block:
 */
 
 {
+    
     let tag = 35;
 } // tag cannot be used outside
 //tag += 100 ;
