@@ -17,8 +17,8 @@ Writing into an alert box, using window.alert().
 Writing into the browser console, using console.log().
 */
 
-window.alert("lets go!!");
-alert("window keyword is global object!!!")
+//window.alert("lets go!!");
+//alert("window keyword is global object!!!")
 
 
 // This statement tells the browser to write "3+1=4." inside an HTML element with id="add":
