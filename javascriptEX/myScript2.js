@@ -81,7 +81,7 @@ console.log(pop); // here it 56
 {
     let pop =10;
     console.log(pop); //here it is 10
-}
+
 console.log(pop); // here again 56
 
 // BUT
