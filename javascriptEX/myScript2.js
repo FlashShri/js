@@ -103,8 +103,24 @@ console.log(king); // here 10
 function getInput(){
     let inputVal = document.getElementById("mytext").value;
 
-    console.log(inputVal);s
+    console.log(inputVal);
 
   
     document.getElementById("p1").innerHTML = "Hello " + inputVal ;
+}
+
+
+// programm for CalculaTING Hypotenous 
+
+function getResult(){
+
+    let side1 = document.getElementById("side1").value;
+    side1 = Number(side1);
+
+    let side2 = document.getElementById("side2").value;
+    side2 = Number(side2);
+
+    let res = Math.sqrt(Math.pow(side1 , 2)+Math.pow(side2 , 2));
+
+    document.getElementById("result").innerHTML = res ;
 }
