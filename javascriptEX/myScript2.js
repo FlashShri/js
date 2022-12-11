@@ -81,7 +81,7 @@ console.log(pop); // here it 56
 {
     let pop =10;
     console.log(pop); //here it is 10
-
+}
 console.log(pop); // here again 56
 
 // BUT
@@ -96,4 +96,15 @@ console.log(king); // here 10
 
 // var is not having block scope 
 
+// let username = window.prompt("enter your username");
+// console.log(username);
 
+// getting user input
+function getInput(){
+    let inputVal = document.getElementById("mytext").value;
+
+    console.log(inputVal);s
+
+  
+    document.getElementById("p1").innerHTML = "Hello " + inputVal ;
+}
