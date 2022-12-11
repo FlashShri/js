@@ -1,7 +1,11 @@
 .contanier {
+    display: block;
+    width: 100%;
  background-color: rgb(25, 112, 136);
  margin: 0 auto;
- text-align: center
-
+ text-align: center;
+ padding-top: 20px;
+ padding-bottom: 20PX;
  
+
 }
