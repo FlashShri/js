@@ -52,3 +52,6 @@ console.log(a*b); // here a*b will be 8
 }
 
 console.log(a*b); // here a*b will be 8
+
+
+
