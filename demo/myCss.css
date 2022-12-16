@@ -11,3 +11,15 @@ body {
     font-family: 'Ubuntu', sans-serif;
 
 }
+
+.wrapper {
+    position: absolute;
+    display: block;
+    border-radius: 25px;
+    width: 55%;
+ background-color: rgb(21, 154, 147);
+ margin: 0 auto;
+ text-align: center;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
