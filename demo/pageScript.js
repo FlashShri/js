@@ -44,3 +44,13 @@ let value = "   STRING 2323" //space
 value = Boolean(value);
 console.log(typeof value);
 console.log(value);
+
+let [tomato , ,carrot]= [1,2,3];
+
+console.log(tomato);
+console.log(carrot);
+console.log( );
+console.log('012' == [0,1,2])
+//console.log(typeof([]))
+
+
